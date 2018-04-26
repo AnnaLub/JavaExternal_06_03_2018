@@ -1,4 +1,4 @@
-package task_2;
+https://github.com/AnnaLub/JavaExternal_06_03_2018package task_2;
 
 /* Сортировка последовательности:
    Упорядочить одномерный маcив - вначале отрицательные по возрастанию,
