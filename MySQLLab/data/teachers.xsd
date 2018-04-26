@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://example.com/teachers"
+        xmlns:tns="http://example.com/teachers"
+        elementFormDefault="qualified">
+    <element name="teachers">
+        <complexType>
+            <sequence>
+                <element name="teacher"
+                         type="tns:Teacher"
+                         minOccurs="2"
+                         maxOccurs="unbounded" />
+            </sequence>
+        </complexType>
+    </element>
+    <complexType name="Teacher">
+        <sequence>
+            <element name="name" type="string" />
+            <element name="status" type="string" />
+        </sequence>
+    </complexType>
+</schema>

@@ -1,0 +1,16 @@
+<teachers xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+         xmlns = "http://example.com/teachers"
+         xsi:schemaLocation = "http://example.com/teachers teachers.xsd">
+    <teacher>
+        <name>TEACHER ONE</name>
+        <status>SENIOR</status>
+    </teacher>
+    <teacher>
+        <name>TEACHER TWO</name>
+        <status>PROFESSOR</status>
+    </teacher>
+    <teacher>
+        <name>TEACHER THREE</name>
+        <status>INTERN</status>
+    </teacher>
+</teachers>
