@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://example.com/currency"
+        xmlns:tns="http://example.com/currency"
+        elementFormDefault="qualified">
+<element name="Currencies">
+    <complexType>
+        <sequence>
+            <element name="Currency"
+                     type="tns:Currency"
+                     minOccurs="2"
+                     maxOccurs="unbounded" />
+        </sequence>
+    </complexType>
+</element>
+<complexType name="Currency">
+    <sequence>
+        <element name="id" type="string" />
+        <element name="br" type="double" />
+        <element name="ar" type="double" />
+        <element name="Organization" type="tns:Organization" />
+    </sequence>
+</complexType>
+    <complexType name="Organization">
+        <sequence>
+            <element name="value" type="string" />
+        </sequence>
+    </complexType>
+</schema>

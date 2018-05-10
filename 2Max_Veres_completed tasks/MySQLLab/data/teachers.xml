@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teachers xmlns="http://example.com/teachers" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.com/teachers teachers.xsd">
+    <teacher>
+        <name>TEACHER ONE</name>
+        <status>XML CRUD</status>
+    </teacher>
+    <teacher>
+        <name>TEACHER TWO</name>
+        <status>XML CRUD</status>
+    </teacher>
+    <teacher>
+        <name>TEACHER THREE</name>
+        <status>XML CRUD</status>
+    </teacher>
+</teachers>

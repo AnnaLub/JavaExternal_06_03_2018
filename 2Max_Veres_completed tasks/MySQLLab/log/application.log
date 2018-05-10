@@ -1,0 +1,837 @@
+2018-04-18 08:58:18 INFO  [main]: Connection with DB is established
+2018-04-18 08:58:18 INFO  [main]: Prepared Statement has been created
+2018-04-18 08:58:18 INFO  [main]: Statement Query has been executed
+2018-04-18 08:58:18 INFO  [main]: All Disciplines have been added to DisciplineList
+2018-04-18 08:58:18 INFO  [main]: ResultSet has been closed
+2018-04-18 08:58:18 INFO  [main]: Connection with DB is closed
+2018-04-18 12:22:51 INFO  [main]: Connection with DB is established
+2018-04-18 12:22:51 INFO  [main]: Prepared Statement has been created
+2018-04-18 12:22:51 INFO  [main]: Statement Query has been executed
+2018-04-18 12:22:51 INFO  [main]: All Disciplines have been added to DisciplineList
+2018-04-18 12:22:51 INFO  [main]: ResultSet has been closed
+2018-04-18 12:22:51 INFO  [main]: Connection with DB is closed
+2018-04-18 12:54:50 INFO  [main]: Connection with DB is established
+2018-04-18 12:54:50 INFO  [main]: Prepared Statement has been created
+2018-04-18 12:54:50 INFO  [main]: Statement Query has been executed
+2018-04-18 12:54:50 INFO  [main]: All Disciplines have been added to DisciplineList
+2018-04-18 12:54:50 INFO  [main]: ResultSet has been closed
+2018-04-18 12:54:50 INFO  [main]: Connection with DB is closed
+2018-04-18 13:04:56,944 [INFO ][main            ][     mySql_connector.ConnectorDB] - Connection with DB is established
+2018-04-18 13:04:56,944 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-18 13:04:56,991 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-18 13:04:56,991 [INFO ][main            ][                  dao.ProductDAO] - All Disciplines have been added to DisciplineList
+2018-04-18 13:04:56,991 [INFO ][main            ][                  dao.ProductDAO] - ResultSet has been closed
+2018-04-18 13:04:57,007 [INFO ][main            ][     mySql_connector.ConnectorDB] - Connection with DB is closed
+2018-04-18 13:35:16,641 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 13:35:16,641 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-18 13:35:16,735 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-18 13:35:16,735 [INFO ][main            ][                  dao.ProductDAO] - All Disciplines have been added to DisciplineList
+2018-04-18 13:35:16,751 [INFO ][main            ][                  dao.ProductDAO] - ResultSet has been closed
+2018-04-18 13:35:16,751 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 13:37:13,106 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 13:37:13,106 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-18 13:37:13,132 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-18 13:37:13,135 [INFO ][main            ][                  dao.ProductDAO] - All Disciplines have been added to DisciplineList
+2018-04-18 13:37:13,136 [INFO ][main            ][                  dao.ProductDAO] - ResultSet has been closed
+2018-04-18 13:37:13,139 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 13:37:28,654 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 13:37:28,654 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-18 13:37:28,654 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-18 13:37:28,654 [INFO ][main            ][                  dao.ProductDAO] - All Disciplines have been added to DisciplineList
+2018-04-18 13:37:28,654 [INFO ][main            ][                  dao.ProductDAO] - ResultSet has been closed
+2018-04-18 13:37:28,654 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 13:38:02,514 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 13:38:02,530 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-18 13:38:02,576 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-18 13:38:02,576 [INFO ][main            ][                  dao.ProductDAO] - All Disciplines have been added to DisciplineList
+2018-04-18 13:38:02,576 [INFO ][main            ][                  dao.ProductDAO] - ResultSet has been closed
+2018-04-18 13:38:02,576 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 13:39:00,085 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 13:39:00,085 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-18 13:39:00,118 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-18 13:39:00,121 [INFO ][main            ][                  dao.ProductDAO] - All Disciplines have been added to DisciplineList
+2018-04-18 13:39:00,121 [INFO ][main            ][                  dao.ProductDAO] - ResultSet has been closed
+2018-04-18 13:39:00,123 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 13:40:49,011 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-18 13:40:49,037 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-18 13:40:49,040 [INFO ][main            ][                  dao.ProductDAO] - All Disciplines have been added to DisciplineList
+2018-04-18 13:40:49,040 [INFO ][main            ][                  dao.ProductDAO] - ResultSet has been closed
+2018-04-18 14:35:10,239 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 14:35:10,368 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-18 14:35:10,495 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-18 14:35:10,498 [INFO ][main            ][                  dao.ProductDAO] - All Disciplines have been added to DisciplineList
+2018-04-18 14:35:10,499 [INFO ][main            ][                  dao.ProductDAO] - ResultSet has been closed
+2018-04-18 14:35:10,500 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 16:23:43,189 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 16:23:43,265 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-18 16:23:43,430 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-18 16:23:43,511 [INFO ][main            ][                  dao.ProductDAO] - All Disciplines have been added to DisciplineList
+2018-04-18 16:23:43,512 [INFO ][main            ][                  dao.ProductDAO] - ResultSet has been closed
+2018-04-18 16:23:43,542 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 18:00:41,317 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:00:41,643 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:00:41,862 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:00:42,023 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:00:42,121 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:02:12,299 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:02:12,348 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:02:12,386 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:02:12,450 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:02:12,483 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:03:10,944 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:03:10,958 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:03:10,995 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:03:11,022 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:03:11,055 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:05:50,285 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:05:50,305 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:05:50,331 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:05:50,370 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:05:50,398 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:06:14,900 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:06:14,915 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:06:15,006 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:06:15,033 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:06:15,064 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:08:05,943 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:14:00,623 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:14:00,636 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:14:00,648 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:14:00,671 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:16:18,637 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:18:26,736 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:18:26,750 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:18:26,762 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:18:26,777 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:28:36,665 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:28:37,115 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:28:37,415 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:28:37,643 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:29:06,676 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:29:06,713 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:29:06,747 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:29:07,035 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:29:47,996 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:29:48,043 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:29:48,092 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:29:48,137 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:32:17,526 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:32:20,483 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:32:22,648 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:32:25,242 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:49:36,558 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:49:36,601 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:49:36,619 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:49:36,644 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:51:24,639 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:51:24,663 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:51:24,682 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:51:24,699 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:51:50,088 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:51:50,137 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:51:50,158 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:51:50,183 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:54:29,334 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:54:29,356 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:54:29,373 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 18:54:29,416 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 19:30:32,679 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 19:30:32,778 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 19:30:32,831 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 19:30:32,898 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 19:33:37,466 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 19:33:37,482 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 19:33:37,598 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 19:33:37,678 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 19:35:22,390 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 19:35:22,407 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 19:35:22,438 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 19:35:22,470 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:28:01,395 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:28:01,433 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:28:01,464 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:28:01,532 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:28:24,245 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:28:24,261 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:29:19,549 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:29:19,571 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:31:14,763 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:31:14,846 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:32:44,053 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:32:44,120 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:35:06,770 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:35:06,834 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:35:07,132 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:35:52,125 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:35:52,188 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:35:52,269 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:41:42,859 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:41:42,927 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:41:42,974 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:46:33,818 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:46:33,874 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:46:33,897 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:49:07,548 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:49:07,621 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 20:49:07,744 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 21:28:49,539 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 21:28:49,621 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 21:28:49,637 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 21:33:54,392 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 21:33:54,537 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 21:33:54,626 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 21:33:54,628 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 21:33:54,629 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 21:33:54,630 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 22:06:37,767 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:06:37,872 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:06:38,009 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:06:38,533 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:06:40,105 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 22:19:03,137 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:19:03,196 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:19:03,235 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:19:03,303 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:19:03,446 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 22:19:03,447 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 22:21:26,332 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:21:26,365 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:21:26,459 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:21:26,520 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:24:41,594 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:24:41,655 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:24:41,819 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:24:41,864 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 22:24:42,177 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 22:24:42,178 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 23:18:28,171 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:18:28,341 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:18:28,341 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-18 23:18:28,341 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-18 23:18:28,356 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-18 23:18:28,356 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-18 23:18:28,702 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-18 23:19:19,143 [ERROR][main            ][    dao.ProductDAOConnectionPool] - com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+2018-04-18 23:19:19,277 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update rollback
+2018-04-18 23:19:19,277 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update rollback
+2018-04-18 23:19:19,277 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed by Abnormal behavior
+2018-04-18 23:19:19,277 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed by Abnormal behavior
+2018-04-18 23:19:19,345 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 23:19:19,345 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 23:19:38,679 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:19:38,727 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:19:38,727 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-18 23:19:38,727 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-18 23:19:38,763 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-18 23:19:38,763 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-18 23:19:38,810 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-18 23:20:29,063 [ERROR][main            ][    dao.ProductDAOConnectionPool] - com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+2018-04-18 23:20:29,122 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update rollback
+2018-04-18 23:20:29,122 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update rollback
+2018-04-18 23:20:29,122 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed by Abnormal behavior
+2018-04-18 23:20:29,122 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed by Abnormal behavior
+2018-04-18 23:20:29,122 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 23:20:29,153 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 23:24:26,259 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:24:26,295 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:24:26,296 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-18 23:24:26,302 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-18 23:24:26,334 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-18 23:24:26,335 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-18 23:24:27,675 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-18 23:25:18,918 [ERROR][main            ][    dao.ProductDAOConnectionPool] - com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+2018-04-18 23:25:18,987 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update rollback
+2018-04-18 23:25:18,988 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update rollback
+2018-04-18 23:25:18,989 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed by Abnormal behavior
+2018-04-18 23:25:18,989 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed by Abnormal behavior
+2018-04-18 23:25:18,992 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 23:25:18,993 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 23:36:33,991 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:36:34,091 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:36:34,091 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-18 23:36:34,091 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-18 23:36:34,107 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-18 23:36:34,107 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-18 23:36:34,154 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-18 23:36:47,549 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:36:47,580 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:36:47,580 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-18 23:36:47,580 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-18 23:36:47,617 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-18 23:36:47,633 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-18 23:36:47,633 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-18 23:37:38,568 [ERROR][main            ][    dao.ProductDAOConnectionPool] - com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+2018-04-18 23:37:39,116 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update rollback
+2018-04-18 23:37:39,116 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update rollback
+2018-04-18 23:37:39,116 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed by Abnormal behavior
+2018-04-18 23:37:39,116 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed by Abnormal behavior
+2018-04-18 23:37:39,131 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 23:37:39,131 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 23:46:33,799 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:46:33,856 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:46:33,856 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-18 23:46:33,856 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-18 23:46:33,856 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-18 23:46:33,856 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-18 23:46:33,903 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-18 23:46:33,903 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-18 23:46:33,940 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-18 23:47:24,103 [ERROR][main            ][    dao.ProductDAOConnectionPool] - com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+2018-04-18 23:47:24,149 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update rollback
+2018-04-18 23:47:24,165 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update rollback
+2018-04-18 23:47:24,165 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed by Abnormal behavior
+2018-04-18 23:47:24,165 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed by Abnormal behavior
+2018-04-18 23:47:24,165 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 23:47:24,165 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 23:48:06,815 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:48:06,899 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:48:06,899 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-18 23:48:06,899 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-18 23:48:06,899 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-18 23:48:06,899 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-18 23:48:06,930 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-18 23:48:06,930 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-18 23:48:06,968 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-18 23:49:05,075 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:49:05,120 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-18 23:49:05,120 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-18 23:49:05,120 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-18 23:49:05,120 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-18 23:49:05,120 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-18 23:49:05,167 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-18 23:49:05,167 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-18 23:49:05,167 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-18 23:49:56,431 [ERROR][main            ][    dao.ProductDAOConnectionPool] - com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+2018-04-18 23:49:56,494 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update rollback
+2018-04-18 23:49:56,494 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update rollback
+2018-04-18 23:49:56,494 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed by Abnormal behavior
+2018-04-18 23:49:56,494 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed by Abnormal behavior
+2018-04-18 23:49:56,509 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-18 23:49:56,509 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:16:43,387 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:16:43,456 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:16:43,465 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 08:16:43,465 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:16:43,467 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 08:16:43,468 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:16:43,498 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 08:16:43,499 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 08:16:43,531 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 08:17:34,972 [ERROR][main            ][    dao.ProductDAOConnectionPool] - com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+2018-04-19 08:17:35,003 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update rollback
+2018-04-19 08:17:35,003 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update rollback
+2018-04-19 08:17:35,003 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed by Abnormal behavior
+2018-04-19 08:17:35,019 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed by Abnormal behavior
+2018-04-19 08:17:35,036 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:17:35,036 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 08:17:35,041 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:17:35,041 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 08:23:05,345 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:23:05,392 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:23:05,392 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 08:23:05,392 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:23:05,392 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 08:23:05,392 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:23:05,423 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 08:23:05,423 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 08:23:05,445 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 08:23:56,649 [ERROR][main            ][    dao.ProductDAOConnectionPool] - com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+2018-04-19 08:23:56,718 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update rollback
+2018-04-19 08:23:56,718 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update rollback
+2018-04-19 08:23:56,718 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed by Abnormal behavior
+2018-04-19 08:23:56,718 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed by Abnormal behavior
+2018-04-19 08:23:56,718 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:23:56,733 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 08:23:56,733 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:23:56,733 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 08:27:33,076 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:27:33,113 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:27:33,113 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 08:27:33,113 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:27:33,113 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 08:27:33,129 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:27:33,160 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 08:27:33,160 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 08:27:33,229 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 08:27:33,292 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 08:27:33,292 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP Statement executed
+2018-04-19 08:27:33,292 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update commited
+2018-04-19 08:27:33,292 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed by Abnormal behavior
+2018-04-19 08:27:33,292 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed by Abnormal behavior
+2018-04-19 08:27:33,292 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:27:33,292 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 08:27:33,292 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:27:33,292 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 08:29:46,128 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:29:46,193 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:29:46,193 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 08:29:46,193 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:29:46,193 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 08:29:46,193 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:29:46,228 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 08:29:46,229 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 08:29:46,235 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 08:29:46,235 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 08:29:46,251 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP Statement executed
+2018-04-19 08:29:46,251 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update commited
+2018-04-19 08:29:46,251 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed
+2018-04-19 08:29:46,251 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-19 08:29:46,251 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:29:46,251 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 08:29:46,251 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:29:46,251 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 08:48:18,282 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:48:18,297 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:48:18,297 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 08:48:18,297 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:48:18,297 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 08:48:18,297 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:48:18,349 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 08:48:18,350 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 08:48:18,398 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 08:48:18,398 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 08:48:18,398 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed
+2018-04-19 08:48:18,398 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-19 08:48:18,413 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:48:18,413 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 08:48:18,413 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:48:18,413 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 08:52:05,980 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:52:06,012 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:52:06,013 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 08:52:06,013 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:52:06,014 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 08:52:06,015 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:52:06,045 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 08:52:06,046 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 08:52:06,070 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 08:52:06,196 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 08:52:06,233 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP Statement executed
+2018-04-19 08:52:06,233 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update commited
+2018-04-19 08:52:06,233 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed
+2018-04-19 08:52:06,233 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-19 08:52:06,233 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:52:06,249 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 08:52:06,249 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:52:06,249 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 08:53:09,959 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:53:09,993 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:53:09,993 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 08:53:09,993 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:53:09,993 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 08:53:09,993 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:53:10,040 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 08:53:10,040 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 08:53:10,060 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 08:53:10,061 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 08:53:10,062 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP Statement executed
+2018-04-19 08:53:10,062 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update commited
+2018-04-19 08:53:10,062 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed
+2018-04-19 08:53:10,062 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-19 08:53:10,062 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:53:10,062 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 08:53:10,062 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:53:10,062 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 08:58:43,365 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:58:43,418 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:58:43,418 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 08:58:43,418 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:58:43,418 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 08:58:43,418 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:58:43,434 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 08:58:43,434 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 08:58:43,450 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 08:58:43,450 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 08:58:43,450 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed
+2018-04-19 08:58:43,450 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-19 08:58:43,450 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:58:43,450 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 08:58:43,450 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:58:43,450 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 08:59:51,090 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:59:51,137 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 08:59:51,137 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 08:59:51,152 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:59:51,152 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 08:59:51,152 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 08:59:51,174 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 08:59:51,174 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 08:59:51,206 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 08:59:51,321 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 08:59:51,321 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP Statement executed
+2018-04-19 08:59:51,321 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update commited
+2018-04-19 08:59:51,321 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed
+2018-04-19 08:59:51,321 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-19 08:59:51,337 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:59:51,337 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 08:59:51,337 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 08:59:51,337 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 09:00:51,203 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:00:51,257 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:00:51,257 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 09:00:51,257 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:00:51,257 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 09:00:51,257 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:00:51,288 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 09:00:51,288 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 09:00:51,288 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 09:00:51,356 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 09:00:51,356 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP Statement executed
+2018-04-19 09:00:51,356 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update commited
+2018-04-19 09:00:51,356 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed
+2018-04-19 09:00:51,356 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-19 09:00:51,356 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:00:51,356 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 09:00:51,356 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:00:51,356 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 09:03:16,014 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:03:16,045 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:03:16,045 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 09:03:16,045 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:03:16,045 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 09:03:16,045 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:03:16,076 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 09:03:16,076 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 09:03:16,076 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 09:03:16,076 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 09:03:16,092 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed
+2018-04-19 09:03:16,092 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-19 09:03:16,092 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:03:16,092 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 09:03:16,092 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:03:16,092 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 09:04:12,785 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:04:12,823 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:04:12,823 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 09:04:12,823 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:04:12,823 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 09:04:12,823 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:04:12,839 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 09:04:12,839 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 09:04:12,854 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 09:04:12,954 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 09:04:13,001 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP Statement executed
+2018-04-19 09:04:13,002 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update commited
+2018-04-19 09:04:13,002 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed
+2018-04-19 09:04:13,002 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-19 09:04:13,004 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:04:13,004 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 09:04:13,005 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:04:13,006 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 09:09:35,046 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:09:35,106 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:09:35,109 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 09:09:35,111 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:09:35,112 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 09:09:35,113 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:09:35,159 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 09:09:35,159 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 09:09:35,161 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 09:09:35,173 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 09:09:35,174 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed
+2018-04-19 09:09:35,174 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-19 09:09:35,178 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:09:35,179 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 09:09:35,180 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:09:35,180 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 09:10:30,255 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:10:30,306 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:10:30,310 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 09:10:30,311 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:10:30,312 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 09:10:30,313 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:10:30,346 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 09:10:30,347 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 09:10:30,349 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 09:10:30,351 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 09:10:30,351 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed
+2018-04-19 09:10:30,352 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-19 09:10:30,358 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:10:30,358 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 09:10:30,359 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:10:30,360 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 09:10:37,502 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:10:37,515 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:10:37,516 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 09:10:37,516 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:10:37,517 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 09:10:37,518 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:10:37,545 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 09:10:37,545 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 09:10:37,547 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 09:10:37,838 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 09:10:37,838 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP Statement executed
+2018-04-19 09:10:37,838 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update commited
+2018-04-19 09:10:37,838 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed
+2018-04-19 09:10:37,838 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-19 09:10:37,838 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:10:37,838 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 09:10:37,838 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:10:37,838 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 09:35:21,145 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:35:21,164 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:35:21,164 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-19 09:35:21,165 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:35:21,166 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-19 09:35:21,167 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_SERIALIZABLE
+2018-04-19 09:35:21,183 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for TEACHER MAP Prepared
+2018-04-19 09:35:21,183 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-19 09:35:21,230 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Statement executed
+2018-04-19 09:35:21,298 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-19 09:35:21,298 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP Statement executed
+2018-04-19 09:35:21,298 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update commited
+2018-04-19 09:35:21,298 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP prepared Statement closed
+2018-04-19 09:35:21,298 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-19 09:35:21,298 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:35:21,298 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-19 09:35:21,314 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:35:21,314 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-19 09:45:39,087 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:45:39,089 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-04-19 09:45:39,094 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-19 09:45:39,097 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-04-19 09:45:39,097 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-04-19 09:45:39,100 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 09:45:39,109 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 09:45:39,109 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-19 09:45:39,109 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-19 09:45:39,109 [INFO ][main            ][                  dao.ProductDAO] - All Disciplines have been added to DisciplineList
+2018-04-19 09:45:39,109 [INFO ][main            ][                  dao.ProductDAO] - ResultSet has been closed
+2018-04-19 09:45:39,109 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 10:05:58,965 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 10:05:58,983 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-04-19 10:05:58,991 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-19 10:05:58,994 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-04-19 10:05:58,995 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-04-19 10:05:59,030 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 10:05:59,077 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 10:05:59,122 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-19 10:05:59,249 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-04-19 10:05:59,250 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 10:05:59,277 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 10:05:59,277 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-04-19 10:05:59,279 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-19 10:05:59,281 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-04-19 10:05:59,281 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-04-19 10:05:59,288 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 10:05:59,312 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 10:05:59,316 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-19 10:05:59,439 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-04-19 10:05:59,442 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 10:05:59,466 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 10:05:59,467 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-19 10:05:59,470 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-19 10:05:59,472 [INFO ][main            ][                  dao.ProductDAO] - All Disciplines have been added to DisciplineList
+2018-04-19 10:05:59,472 [INFO ][main            ][                  dao.ProductDAO] - ResultSet has been closed
+2018-04-19 10:05:59,473 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 10:05:59,496 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 10:05:59,497 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-19 10:05:59,636 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-04-19 10:05:59,637 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-19 10:05:59,668 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-19 10:05:59,669 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-19 10:05:59,671 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-19 10:05:59,673 [INFO ][main            ][                  dao.ProductDAO] - All Disciplines have been added to DisciplineList
+2018-04-19 10:05:59,673 [INFO ][main            ][                  dao.ProductDAO] - ResultSet has been closed
+2018-04-19 10:05:59,678 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-23 17:13:49,694 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-23 17:13:49,788 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-04-23 17:13:50,038 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-23 17:13:50,106 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-04-23 17:13:50,106 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-04-23 17:13:50,178 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-23 17:13:50,206 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-23 17:13:50,286 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-23 17:13:51,515 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-04-23 17:13:51,516 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-23 17:13:51,536 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-23 17:13:51,536 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-04-23 17:13:51,546 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-04-23 17:13:51,547 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-04-23 17:13:51,548 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-04-23 17:13:51,554 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-23 17:13:51,615 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-23 17:13:51,618 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-04-23 17:14:38,245 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-23 17:14:38,268 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-23 17:14:38,270 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-23 17:14:38,271 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_READ_UNCOMMITTED
+2018-04-23 17:14:38,274 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-23 17:14:38,276 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_READ_UNCOMMITTED
+2018-04-23 17:14:38,332 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Remove action Statement for TEACHER MAP Prepared
+2018-04-23 17:14:38,335 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Adding action Statement for TEACHER MAP Prepared
+2018-04-23 17:14:38,337 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-23 17:14:38,580 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Remove action executed
+2018-04-23 17:14:38,582 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Adding action executed
+2018-04-23 17:14:38,786 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-23 17:14:38,927 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP Statement executed
+2018-04-23 17:14:38,928 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update commited
+2018-04-23 17:14:38,929 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP remove Statement closed
+2018-04-23 17:14:38,930 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP adding Statement closed
+2018-04-23 17:14:38,930 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-23 17:14:38,935 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-23 17:14:38,935 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-23 17:14:38,937 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-23 17:14:38,939 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-23 17:17:42,457 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-23 17:17:42,478 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-23 17:17:42,480 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-04-23 17:17:42,481 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_READ_UNCOMMITTED
+2018-04-23 17:17:42,483 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-04-23 17:17:42,484 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_READ_UNCOMMITTED
+2018-04-23 17:17:42,528 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Remove action Statement for TEACHER MAP Prepared
+2018-04-23 17:17:42,530 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Adding action Statement for TEACHER MAP Prepared
+2018-04-23 17:17:42,532 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-04-23 17:17:42,540 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Remove action executed
+2018-04-23 17:17:42,542 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Adding action executed
+2018-04-23 17:17:42,575 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-04-23 17:17:42,644 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP Statement executed
+2018-04-23 17:17:42,699 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update commited
+2018-04-23 17:17:42,700 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP remove Statement closed
+2018-04-23 17:17:42,700 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP adding Statement closed
+2018-04-23 17:17:42,701 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-04-23 17:17:42,705 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-23 17:17:42,705 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-04-23 17:17:42,709 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-23 17:17:42,709 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-04-23 21:42:05,860 [ERROR][main            ][                      xml.logger] - 5 : 36cvc-elt.1: Cannot find the declaration of element 'schema'.
+2018-04-23 21:42:21,669 [ERROR][main            ][                      xml.logger] - 3 : 84cvc-elt.1: Cannot find the declaration of element 'teacher'.
+2018-04-23 21:47:29,380 [ERROR][main            ][                      xml.logger] - 3 : 84cvc-elt.1: Cannot find the declaration of element 'teacher'.
+2018-04-23 21:48:55,050 [ERROR][main            ][                      xml.logger] - 3 : 84cvc-elt.1: Cannot find the declaration of element 'teacher'.
+2018-04-23 21:50:22,581 [ERROR][main            ][                      xml.logger] - 3 : 84cvc-elt.1: Cannot find the declaration of element 'teacher'.
+2018-04-25 11:28:32,523 [ERROR][main            ][                      xml.logger] - 3 : 84cvc-elt.1: Cannot find the declaration of element 'teacher'.
+2018-04-25 11:40:28,293 [ERROR][main            ][                      xml.logger] - 3 : 84cvc-elt.1: Cannot find the declaration of element 'teacher'.
+2018-04-25 11:41:52,672 [ERROR][main            ][                      xml.logger] - 3 : 84cvc-elt.1: Cannot find the declaration of element 'teacher'.
+2018-04-25 11:46:02,735 [ERROR][main            ][                      xml.logger] - 3 : 84cvc-elt.1: Cannot find the declaration of element 'teacher'.
+2018-04-25 11:46:33,924 [ERROR][main            ][                      xml.logger] - 3 : 84cvc-elt.1: Cannot find the declaration of element 'teacher'.
+2018-04-25 11:47:05,922 [ERROR][main            ][                      xml.logger] - 3 : 84cvc-elt.1: Cannot find the declaration of element 'teacher'.
+2018-04-25 11:47:10,771 [ERROR][main            ][                      xml.logger] - 3 : 84cvc-elt.1: Cannot find the declaration of element 'teacher'.
+2018-04-25 11:52:53,088 [ERROR][main            ][                      xml.logger] - 3 : 84cvc-elt.1: Cannot find the declaration of element 'teacher'.
+2018-04-25 13:38:27,843 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-25 13:41:30,267 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-25 13:45:44,201 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-25 13:46:12,159 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-25 13:47:29,802 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-25 13:47:29,909 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-25 13:47:29,940 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-25 13:47:29,967 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-25 13:47:29,968 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-25 13:47:29,972 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-25 13:48:16,746 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-25 13:48:16,798 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-25 13:48:16,808 [INFO ][main            ][                       db.logger] - Connection with DB is established
+2018-04-25 13:48:16,810 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-25 13:48:16,811 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-25 13:48:16,812 [INFO ][main            ][                       db.logger] - Connection with DB is closed
+2018-04-25 13:51:14,443 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-25 13:56:02,904 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-25 13:56:26,690 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-25 13:58:01,439 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-25 14:01:28,190 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-25 14:08:43,399 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-25 14:12:45,772 [ERROR][main            ][                      xml.logger] - 3 : 74cvc-elt.1: Cannot find the declaration of element 'teachers'.
+2018-04-25 14:12:45,791 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-25 14:16:06,302 [ERROR][main            ][                      xml.logger] - 3 : 74cvc-elt.1: Cannot find the declaration of element 'teachers'.
+2018-04-25 14:16:06,327 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-25 14:16:51,643 [ERROR][main            ][                      xml.logger] - 3 : 74cvc-elt.1: Cannot find the declaration of element 'teachers'.
+2018-04-26 14:28:50,221 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-26 16:26:05,033 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-04-26 16:45:49,771 [FATAL][main            ][                      xml.logger] - 11 : 5The end-tag for element type "status" must end with a '>' delimiter.
+2018-05-03 15:55:57,770 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-05-03 15:55:57,801 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-05-03 15:55:57,801 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-05-03 15:55:57,801 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-05-03 15:55:57,854 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 15:55:57,985 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-05-03 15:55:58,001 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-05-03 15:55:58,001 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-05-03 15:55:58,001 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-05-03 15:55:58,001 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-05-03 15:55:58,017 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 15:56:42,492 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-05-03 15:56:42,503 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-05-03 15:56:42,506 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-05-03 15:56:42,506 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-05-03 15:56:42,546 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 15:56:42,634 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-05-03 15:56:42,645 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-05-03 15:56:42,650 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-05-03 15:56:42,651 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-05-03 15:56:42,651 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-05-03 15:56:42,667 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 15:57:11,222 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-05-03 15:57:11,233 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-05-03 15:57:11,235 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-05-03 15:57:11,236 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-05-03 15:57:11,275 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 15:57:54,408 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-05-03 15:57:54,418 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-05-03 15:57:54,421 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-05-03 15:57:54,421 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-05-03 16:00:08,754 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-05-03 16:00:08,764 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-05-03 16:00:08,767 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-05-03 16:00:08,768 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-05-03 16:00:16,778 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-05-03 16:00:16,779 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_READ_UNCOMMITTED
+2018-05-03 16:00:16,779 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-05-03 16:00:16,780 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_READ_UNCOMMITTED
+2018-05-03 16:00:16,808 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Remove action Statement for TEACHER MAP Prepared
+2018-05-03 16:00:16,809 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Adding action Statement for TEACHER MAP Prepared
+2018-05-03 16:00:16,810 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-05-03 16:00:16,891 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Remove action executed
+2018-05-03 16:00:16,907 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Adding action executed
+2018-05-03 16:00:16,975 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update commited
+2018-05-03 16:00:17,028 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP Statement executed
+2018-05-03 16:00:17,028 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update commited
+2018-05-03 16:00:17,028 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP remove Statement closed
+2018-05-03 16:00:17,028 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP adding Statement closed
+2018-05-03 16:00:17,028 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-05-03 16:00:17,044 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-05-03 16:00:17,044 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-05-03 16:05:03,583 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 1 DISABLED
+2018-05-03 16:05:03,584 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 1 TL set to TRANSACTION_READ_UNCOMMITTED
+2018-05-03 16:05:03,585 [INFO ][main            ][    dao.ProductDAOConnectionPool] - AutoCommit of connection 2 DISABLED
+2018-05-03 16:05:03,586 [INFO ][main            ][    dao.ProductDAOConnectionPool] - connection 2 TL set to TRANSACTION_READ_UNCOMMITTED
+2018-05-03 16:05:03,612 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Remove action Statement for TEACHER MAP Prepared
+2018-05-03 16:05:03,613 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Adding action Statement for TEACHER MAP Prepared
+2018-05-03 16:05:03,614 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Statement for DISCIPLINE MAP Prepared
+2018-05-03 16:05:03,620 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP Remove action executed
+2018-05-03 16:05:03,641 [ERROR][main            ][    dao.ProductDAOConnectionPool] - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry 'OBI-WAN' for key 'PRIMARY'
+2018-05-03 16:05:03,642 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP update rollback
+2018-05-03 16:05:03,642 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP update rollback
+2018-05-03 16:05:03,643 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP remove Statement closed
+2018-05-03 16:05:03,643 [INFO ][main            ][    dao.ProductDAOConnectionPool] - TEACHER MAP adding Statement closed
+2018-05-03 16:05:03,643 [INFO ][main            ][    dao.ProductDAOConnectionPool] - DISCIPLINE MAP prepared Statement closed
+2018-05-03 16:05:03,645 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 1 returned to Connection Pool
+2018-05-03 16:05:03,647 [INFO ][main            ][    dao.ProductDAOConnectionPool] - Connection 2 returned to Connection Pool
+2018-05-03 16:05:12,285 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 16:05:12,379 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-05-03 16:05:12,395 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 16:05:12,432 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-05-03 16:22:33,334 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-05-03 16:22:33,340 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-05-03 16:22:33,344 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-05-03 16:22:33,344 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-05-03 16:25:36,363 [INFO ][main            ][                  dao.ProductDAO] - Statement has been created
+2018-05-03 16:25:36,373 [INFO ][main            ][                  dao.ProductDAO] - Statement Query has been executed
+2018-05-03 16:25:36,376 [INFO ][main            ][                  dao.ProductDAO] - All Teachers have been added to TeachersList
+2018-05-03 16:25:36,376 [INFO ][main            ][                  dao.ProductDAO] - Statement has been closed
+2018-05-03 17:35:52,118 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 17:35:52,127 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-05-03 17:36:25,514 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 17:36:25,515 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-05-03 17:42:29,907 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 17:42:29,913 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-05-03 17:43:39,035 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 17:43:39,037 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-05-03 17:43:39,037 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 17:43:39,037 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-05-03 17:43:39,038 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 17:43:39,038 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-05-03 17:46:41,677 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 17:46:41,758 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-05-03 17:46:41,759 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 17:46:41,838 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
+2018-05-03 17:46:41,838 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been created
+2018-05-03 17:46:41,885 [INFO ][main            ][                  dao.ProductDAO] - Prepared Statement has been executed Updates
